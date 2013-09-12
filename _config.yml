@@ -1,7 +1,7 @@
 # Sitewide configuration settings. Set `title` to the site title, which
 # will be appended to the URL following {{page.title}} |
 
-title: HealthCare.gov
+title: OyoHealth.com
 # auto: true
 # server: true
 pygments: true
@@ -29,9 +29,9 @@ status: &status
     value: 'insured'
   - name: 'Not Insured'
     value: 'not-insured'
-siteurl: 'https://www.healthcare.gov'
-searchurl: 'https://search.healthcare.gov'
-searchproxy: 'https://www.healthcare.gov'
+siteurl: 'http://www.oyohealth.com'
+searchurl: 'https://search.oyohealth.com'
+searchproxy: 'http://www.oyohealth.com'
  
 # Custom Collections
 # Creates a globally accessible list of posts based on these specified metadata variables
@@ -72,10 +72,10 @@ jekyll_sort:
 prose:
   media: 'assets'
   rooturl: "_posts"
-  siteurl: "https://www.healthcare.gov/"
-  relativeLinks: "https://www.healthcare.gov/resources/prose/relativeLinks.jsonp"
+  siteurl: "http://www.oyohealth.com/"
+  relativeLinks: "http://www.oyohealth.com/resources/prose/relativeLinks.jsonp"
   site:
-    tags: "https://www.healthcare.gov/api/tags.jsonp"
+    tags: "http://www.oyohealth.com/api/tags.jsonp"
   metadata:
     _posts/articles:
       - name: "title"
@@ -143,12 +143,12 @@ prose:
         field:
           element: "multiselect"
           label: "Topics"
-          options: "https://www.healthcare.gov/resources/topics.jsonp?callback=topics"
+          options: "http://www.oyohealth.com/resources/topics.jsonp?callback=topics"
       - name: "questions"
         field:
           element: "multiselect"
           label: "Related questions"
-          options: "https://www.healthcare.gov/resources/questions.jsonp?callback=questions"
+          options: "http://www.oyohealth.com/resources/questions.jsonp?callback=questions"
       - name: "question-header"
         field:
           element: "text"
@@ -159,7 +159,7 @@ prose:
         field:
           element: "multiselect"
           label: "Related"
-          options: "https://www.healthcare.gov/resources/articles.jsonp?callback=articles"
+          options: "http://www.oyohealth.com/resources/articles.jsonp?callback=articles"
       - name: "audience"
         field:
           element: "multiselect"
@@ -411,7 +411,7 @@ prose:
         field:
           element: "multiselect"
           label: "Topics"
-          options: "https://www.healthcare.gov/resources/topics.jsonp?callback=topics"
+          options: "http://www.oyohealth.com/resources/topics.jsonp?callback=topics"
     _posts/help:
       - name: "title"
         field:

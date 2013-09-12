@@ -1,6 +1,6 @@
-# robots.txt for healthcare.gov
+# robots.txt for oyohealth.com
 User-agent: *
 # Directories
 Disallow: /api/
 Disallow: /es/
-Sitemap: https://www.healthcare.gov/sitemap.xml
+Sitemap: http://www.oyohealth.com/sitemap.xml
