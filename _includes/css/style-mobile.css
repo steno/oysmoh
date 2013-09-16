@@ -203,6 +203,7 @@ body.menu #sidr {
   text-align:center;
   color:#046792;
   border-left:1px solid #ccc;
+  display:none;
   }
 #header .lang.es {
   line-height:13px;

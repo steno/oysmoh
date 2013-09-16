@@ -36,7 +36,7 @@ Learn more about [cost savings on health insurance](/how-can-i-save-money-on-mar
 
 No matter where you live, you can use the Marketplace to compare plans and enroll in coverage.
 
-See what your state is doing:
+See what your LGA is doing:
 
 ## How the Marketplace works
 

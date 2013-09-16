@@ -32,10 +32,10 @@ en:
       - item: Privacy Policy
         link: /privacy
       - item: Plain Writing
-        link: "http://www.hhs.gov/open/recordsandreports/plainwritingact/index.html"
+        link: "http://www.oyohealth.com"
       - item: "Viewers & Players"
-        link: "http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Help.html"
-    address: "A federal government website managed by the U.S. Centers for Medicare & Medicaid Services. 7500 Security Boulevard, Baltimore, MD 21244"
+        link: "http://www.oyohealth.com"
+    address: "A federal government website managed by the OYO STATE Ministry of Health."
 es: 
   footer: 
     daysleft: "DÍAS PARA<br>INSCRIPCIÓN ABIERTA"
